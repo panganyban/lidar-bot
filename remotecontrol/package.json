@@ -1,0 +1,15 @@
+{
+  "name": "remotecontrol",
+  "version": "1.0.0",
+  "description": "\"override the lidar controlled vehicle with manual commands from laptop\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CMPE220 - Team 3",
+  "license": "ISC",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {}
+}
